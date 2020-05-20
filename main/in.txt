@@ -1,0 +1,12 @@
+dorm 12
+level 1
+room 101 5 5
+Sergey Kharlap man 18 N
+room 102 5 4
+Nikolay Dav man 18 S
+Maksim Tylypo man 17 N
+Nikita Titov man 24 N
+Dmitry Sudorev man 18 N
+level 2
+room 201 5 4
+Oly Em wom 18 S
