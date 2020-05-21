@@ -19,7 +19,7 @@ class Inhabitant(object):
             self.duty_degree = 0
 
     def __str__(self):
-        return f"name - {self.name} surname - {self.surname} hender - {self.gender} age - {self.age}; status - {self.status}"
+        return f"name - {self.name} surname - {self.surname} gender - {self.gender} age - {self.age}; status - {self.status}"
 
     def __del__(self):  # Деструктор класса
         Inhabitant.amount_members -= 1
